@@ -1,0 +1,832 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GeneratePress\n"
+"POT-Creation-Date: 2017-12-31 11:35+0800\n"
+"PO-Revision-Date: 2017-12-31 14:11+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:39
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "嚄！那一页找不到了。"
+
+#: 404.php:55
+msgid "It looks like nothing was found at this location. Maybe try searching?"
+msgstr "这儿，貌似啥也木有。搜搜看？"
+
+#. translators: %s: post title
+#: comments.php:50
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "&ldquo;%s&rdquo; 有一条评论 "
+
+#: comments.php:57
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; 有 %1$s 条评论 "
+
+#: comments.php:80 comments.php:103
+msgid "Comment navigation"
+msgstr "评论导航"
+
+#: comments.php:81 comments.php:104
+msgid "&larr; Older Comments"
+msgstr "&larr; 更早的评论"
+
+#: comments.php:82 comments.php:105
+msgid "Newer Comments &rarr;"
+msgstr "较新的评论 &rarr;"
+
+#: comments.php:113
+msgid "Comments are closed."
+msgstr "评论已关闭。"
+
+#: comments.php:119
+msgid "Name"
+msgstr "名字"
+
+#: comments.php:120
+msgid "Email"
+msgstr "邮箱"
+
+#: comments.php:121
+msgid "Website"
+msgstr "网站"
+
+#: comments.php:126
+msgid "Comment"
+msgstr "评论"
+
+#: comments.php:131
+msgid "Leave a Comment"
+msgstr "写下评论"
+
+#: comments.php:132
+msgid "Post Comment"
+msgstr "发表评论"
+
+#: content-link.php:71 content-page.php:48 content-single.php:66 content.php:70
+msgid "Pages:"
+msgstr "页数："
+
+#: functions.php:46
+msgid "Primary Menu"
+msgstr "主菜单"
+
+#: inc/customizer.php:81
+msgid "Premium Modules Available"
+msgstr "可用优质（要钱的）模块"
+
+#: inc/customizer.php:105
+msgid "Hide site title"
+msgstr "隐藏站点标题"
+
+#: inc/customizer.php:125
+msgid "Hide site tagline"
+msgstr "隐藏站点副标题"
+
+#: inc/customizer.php:147
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer.php:169
+msgid "Retina Logo"
+msgstr ""
+
+#: inc/customizer.php:180
+msgid "Body"
+msgstr ""
+
+#: inc/customizer.php:180
+msgid "Colors"
+msgstr "颜色"
+
+#: inc/customizer.php:201
+msgid "Background Color"
+msgstr "背景色"
+
+#: inc/customizer.php:222
+msgid "Text Color"
+msgstr "文本颜色"
+
+#: inc/customizer.php:243
+msgid "Link Color"
+msgstr "链接颜色"
+
+#: inc/customizer.php:264
+msgid "Link Color Hover"
+msgstr "悬停链接颜色"
+
+#: inc/customizer.php:285
+msgid "Link Color Visited"
+msgstr "已访问链接颜色"
+
+#: inc/customizer.php:300
+msgid "Learn More"
+msgstr "了解更多"
+
+#: inc/customizer.php:301 inc/customizer.php:1047 inc/typography.php:326
+msgid "More options are available for this section in our premium version."
+msgstr "花钱就给你更多选择。"
+
+#: inc/customizer.php:314 inc/meta-box.php:52
+msgid "Layout"
+msgstr "布局"
+
+#: inc/customizer.php:323
+msgid "Container"
+msgstr "容器"
+
+#: inc/customizer.php:346 inc/dashboard.php:206
+msgid "Container Width"
+msgstr "容器宽度"
+
+#: inc/customizer.php:369 inc/general.php:78
+msgid "Top Bar"
+msgstr "顶栏"
+
+#: inc/customizer.php:391
+msgid "Top Bar Width"
+msgstr "顶栏宽度"
+
+#: inc/customizer.php:394 inc/customizer.php:422 inc/customizer.php:489
+#: inc/customizer.php:517 inc/customizer.php:580 inc/customizer.php:608
+#: inc/customizer.php:882 inc/customizer.php:910 inc/customizer.php:1030
+msgid "Full"
+msgstr "全部"
+
+#: inc/customizer.php:395 inc/customizer.php:423 inc/customizer.php:490
+#: inc/customizer.php:516 inc/customizer.php:581 inc/customizer.php:607
+#: inc/customizer.php:883 inc/customizer.php:909 inc/meta-box.php:179
+msgid "Contained"
+msgstr "包含"
+
+#: inc/customizer.php:419
+msgid "Top Bar Inner Width"
+msgstr "顶栏内部宽度"
+
+#: inc/customizer.php:447
+msgid "Top Bar Alignment"
+msgstr "顶栏对齐方式"
+
+#: inc/customizer.php:450 inc/customizer.php:543 inc/customizer.php:634
+#: inc/customizer.php:966
+msgid "Left"
+msgstr "左"
+
+#: inc/customizer.php:451 inc/customizer.php:544 inc/customizer.php:635
+#: inc/customizer.php:967
+msgid "Center"
+msgstr "中"
+
+#: inc/customizer.php:452 inc/customizer.php:545 inc/customizer.php:636
+#: inc/customizer.php:968
+msgid "Right"
+msgstr "右"
+
+#: inc/customizer.php:464 inc/general.php:71
+msgid "Header"
+msgstr "头"
+
+#: inc/customizer.php:486
+msgid "Header Width"
+msgstr "头宽度"
+
+#: inc/customizer.php:513
+msgid "Inner Header Width"
+msgstr "头内部宽度"
+
+#: inc/customizer.php:540
+msgid "Header Alignment"
+msgstr "头对齐方式"
+
+#: inc/customizer.php:555
+msgid "Primary Navigation"
+msgstr "主导航"
+
+#: inc/customizer.php:577
+msgid "Navigation Width"
+msgstr "导航宽度"
+
+#: inc/customizer.php:604
+msgid "Inner Navigation Width"
+msgstr "导航内部宽度"
+
+#: inc/customizer.php:631
+msgid "Navigation Alignment"
+msgstr "导航对齐方式"
+
+#: inc/customizer.php:659 inc/dashboard.php:207
+msgid "Navigation Location"
+msgstr "导航位置"
+
+#: inc/customizer.php:662
+msgid "Below Header"
+msgstr "头下方"
+
+#: inc/customizer.php:663
+msgid "Above Header"
+msgstr "头上方"
+
+#: inc/customizer.php:664
+msgid "Float Right"
+msgstr "靠右浮动"
+
+#: inc/customizer.php:665
+msgid "Float Left"
+msgstr "靠左浮动"
+
+#: inc/customizer.php:666 inc/general.php:70 inc/meta-box.php:110
+msgid "Left Sidebar"
+msgstr "左边栏"
+
+#: inc/customizer.php:667 inc/general.php:69 inc/meta-box.php:106
+msgid "Right Sidebar"
+msgstr "右边栏"
+
+#: inc/customizer.php:668
+msgid "No Navigation"
+msgstr "无导航"
+
+#: inc/customizer.php:690
+msgid "Navigation Dropdown"
+msgstr "导航下拉"
+
+#: inc/customizer.php:693
+msgid "Hover"
+msgstr "悬停"
+
+#: inc/customizer.php:694
+msgid "Click - Menu Item"
+msgstr "点击-菜单项"
+
+#: inc/customizer.php:695
+msgid "Click - Arrow"
+msgstr "点击-箭头"
+
+#: inc/customizer.php:717
+msgid "Navigation Search"
+msgstr "导航搜索"
+
+#: inc/customizer.php:720 inc/customizer.php:994
+msgid "Enable"
+msgstr "启用"
+
+#: inc/customizer.php:721 inc/customizer.php:995
+msgid "Disable"
+msgstr "禁用"
+
+#: inc/customizer.php:744
+msgid "Content Layout"
+msgstr "内容布局"
+
+#: inc/customizer.php:747
+msgid "Separate Containers"
+msgstr "分离容器"
+
+#: inc/customizer.php:748
+msgid "One Container"
+msgstr "单容器"
+
+#: inc/customizer.php:758 inc/meta-box.php:91
+msgid "Sidebars"
+msgstr "边栏"
+
+#: inc/customizer.php:779 inc/dashboard.php:205
+msgid "Sidebar Layout"
+msgstr "边栏布局"
+
+#: inc/customizer.php:782 inc/customizer.php:812 inc/customizer.php:842
+msgid "Sidebar / Content"
+msgstr "边栏/内容"
+
+#: inc/customizer.php:783 inc/customizer.php:813 inc/customizer.php:843
+msgid "Content / Sidebar"
+msgstr "内容/边栏"
+
+#: inc/customizer.php:784 inc/customizer.php:814 inc/customizer.php:844
+#: inc/meta-box.php:116
+msgid "Content (no sidebars)"
+msgstr "内容（无边栏） "
+
+#: inc/customizer.php:785 inc/customizer.php:815 inc/customizer.php:845
+msgid "Sidebar / Content / Sidebar"
+msgstr "边栏/内容/边栏"
+
+#: inc/customizer.php:786 inc/customizer.php:816 inc/customizer.php:846
+msgid "Sidebar / Sidebar / Content"
+msgstr "边栏/边栏/内容"
+
+#: inc/customizer.php:787 inc/customizer.php:817 inc/customizer.php:847
+msgid "Content / Sidebar / Sidebar"
+msgstr "内容/边栏/边栏"
+
+#: inc/customizer.php:809
+msgid "Blog Sidebar Layout"
+msgstr "博客边栏布局"
+
+#: inc/customizer.php:839
+msgid "Single Post Sidebar Layout"
+msgstr "单个文章边栏布局"
+
+#: inc/customizer.php:857
+msgid "Footer"
+msgstr "脚"
+
+#: inc/customizer.php:879
+msgid "Footer Width"
+msgstr "脚宽度"
+
+#: inc/customizer.php:906
+msgid "Inner Footer Width"
+msgstr "脚内部宽度"
+
+#: inc/customizer.php:932 inc/dashboard.php:208 inc/meta-box.php:92
+msgid "Footer Widgets"
+msgstr "脚挂件"
+
+#: inc/customizer.php:963
+msgid "Footer Bar Alignment"
+msgstr "脚栏对齐方式"
+
+#: inc/customizer.php:991
+msgid "Back to Top Button"
+msgstr "回到顶部按钮"
+
+#: inc/customizer.php:1006
+msgid "Blog"
+msgstr "博客"
+
+#: inc/customizer.php:1027
+msgid "Content Type"
+msgstr "内容类型"
+
+#: inc/customizer.php:1031
+msgid "Excerpt"
+msgstr "摘要"
+
+#: inc/customizer.php:1046 inc/dashboard.php:161 inc/typography.php:325
+msgid "Learn more"
+msgstr "了解更多"
+
+#: inc/customizer.php:1060
+msgid "General"
+msgstr "通用"
+
+#: inc/customizer.php:1078
+msgid "Load essential icons only"
+msgstr "仅加载主要的图标"
+
+#: inc/customizer.php:1079
+msgid "Load essential Font Awesome icons instead of the full library."
+msgstr "加载好看的字体图标而不是整个库。"
+
+#: inc/customizer.php:1098
+msgid "Cache dynamic CSS"
+msgstr ""
+
+#: inc/customizer.php:1099
+msgid "Cache CSS generated by your options to boost performance."
+msgstr ""
+
+#: inc/customizer/controls/class-deprecated.php:51
+msgid "Default fonts"
+msgstr "默认字体"
+
+#: inc/customizer/controls/class-deprecated.php:52
+#: inc/customizer/controls/class-typography-control.php:34
+msgid "Google fonts"
+msgstr "Google 字体"
+
+#: inc/customizer/controls/class-deprecated.php:53
+#: inc/customizer/controls/class-typography-control.php:37
+msgid "Font family"
+msgstr ""
+
+#: inc/customizer/controls/class-range-control.php:54
+msgid "Desktop"
+msgstr "桌面"
+
+#: inc/customizer/controls/class-range-control.php:55
+msgid "Tablet"
+msgstr "平板"
+
+#: inc/customizer/controls/class-range-control.php:56
+msgid "Mobile"
+msgstr "移动端"
+
+#: inc/customizer/controls/class-range-control.php:57
+msgid "Reset"
+msgstr "重置"
+
+#: inc/customizer/controls/class-typography-control.php:33
+msgid "System fonts"
+msgstr "系统字体"
+
+#: inc/customizer/controls/class-typography-control.php:38
+msgid "Font weight"
+msgstr "字重"
+
+#: inc/customizer/controls/class-typography-control.php:39
+msgid "Text transform"
+msgstr "文本变形"
+
+#: inc/customizer/controls/class-typography-control.php:41
+msgid "Variants"
+msgstr "变体"
+
+#: inc/dashboard.php:53
+msgid "Premium"
+msgstr "优质（要钱的） "
+
+#: inc/dashboard.php:55
+msgid "Support"
+msgstr "支持"
+
+#: inc/dashboard.php:56 inc/dashboard.php:201
+msgid "Documentation"
+msgstr "文档"
+
+#: inc/dashboard.php:92 inc/dashboard.php:186
+msgid "Customize"
+msgstr "定制"
+
+#: inc/dashboard.php:152
+msgid "Premium Modules"
+msgstr "优质（要钱的）模块"
+
+#: inc/dashboard.php:201
+msgid "View all"
+msgstr "查看全部"
+
+#: inc/dashboard.php:204
+msgid "Adding a Logo"
+msgstr "添加一个 Logo"
+
+#: inc/dashboard.php:215
+msgid "Delete Customizer Settings"
+msgstr "删除定制设置"
+
+#: inc/dashboard.php:217
+msgid "Deleting your settings can not be undone."
+msgstr "删除后就再也找不回来啦。"
+
+#: inc/dashboard.php:222
+msgid "Warning: This will delete your settings."
+msgstr "警告：这会删除你的设置。"
+
+#: inc/dashboard.php:224
+msgid "Delete Default Settings"
+msgstr "删除默认设置"
+
+#. translators: %s: Heart icon
+#: inc/dashboard.php:247
+#, php-format
+msgctxt "made with love"
+msgid "Made with %s by Tom Usborne"
+msgstr ""
+
+#: inc/dashboard.php:308
+msgid "Settings saved."
+msgstr "设置已保存。"
+
+#: inc/dashboard.php:312
+msgid "Import successful."
+msgstr "导入成功。"
+
+#: inc/dashboard.php:316
+msgid "Settings removed."
+msgstr "设置已移除。"
+
+#: inc/deprecated.php:27 inc/structure/post-meta.php:66
+msgid "&larr; Previous"
+msgstr "&larr; 上一页"
+
+#: inc/deprecated.php:28 inc/structure/post-meta.php:67
+msgid "Next &rarr;"
+msgstr "下一页 &rarr;"
+
+#: inc/general.php:72
+msgid "Footer Widget 1"
+msgstr "脚挂件1"
+
+#: inc/general.php:73
+msgid "Footer Widget 2"
+msgstr "脚挂件2"
+
+#: inc/general.php:74
+msgid "Footer Widget 3"
+msgstr "脚挂件3"
+
+#: inc/general.php:75
+msgid "Footer Widget 4"
+msgstr "脚挂件4"
+
+#: inc/general.php:76
+msgid "Footer Widget 5"
+msgstr "脚挂件5"
+
+#: inc/general.php:77
+msgid "Footer Bar"
+msgstr "脚栏"
+
+#: inc/meta-box.php:94
+msgid "Disable Elements"
+msgstr "禁用元素"
+
+#: inc/meta-box.php:96
+msgid "Page Builder Container"
+msgstr "页面构建器容器"
+
+#: inc/meta-box.php:104 inc/meta-box.php:136 inc/meta-box.php:171
+msgid "Default"
+msgstr "默认"
+
+#: inc/meta-box.php:108 inc/meta-box.php:112 inc/meta-box.php:120
+#: inc/meta-box.php:124 inc/meta-box.php:128
+msgid "Content"
+msgstr "内容"
+
+#: inc/meta-box.php:108 inc/meta-box.php:112 inc/meta-box.php:120
+#: inc/meta-box.php:124 inc/meta-box.php:128
+msgctxt "Short name for meta box"
+msgid "Sidebar"
+msgstr "边栏"
+
+#: inc/meta-box.php:114
+msgid "No Sidebars"
+msgstr "无边栏"
+
+#: inc/meta-box.php:118
+msgid "Both Sidebars"
+msgstr "双边栏"
+
+#: inc/meta-box.php:122
+msgid "Both Sidebars on Left"
+msgstr "双边栏靠左"
+
+#: inc/meta-box.php:126
+msgid "Both Sidebars on Right"
+msgstr "双边栏靠右"
+
+#: inc/meta-box.php:138 inc/meta-box.php:140
+msgid "0 Widgets"
+msgstr "无挂件"
+
+#: inc/meta-box.php:142 inc/meta-box.php:144
+msgid "1 Widget"
+msgstr "1个挂件"
+
+#: inc/meta-box.php:146 inc/meta-box.php:148
+msgid "2 Widgets"
+msgstr "2个挂件"
+
+#: inc/meta-box.php:150 inc/meta-box.php:152
+msgid "3 Widgets"
+msgstr "3个挂件"
+
+#: inc/meta-box.php:154 inc/meta-box.php:156
+msgid "4 Widgets"
+msgstr "4个挂件"
+
+#: inc/meta-box.php:158 inc/meta-box.php:160
+msgid "5 Widgets"
+msgstr "5个挂件"
+
+#: inc/meta-box.php:166
+msgid ""
+"Choose your page builder content container type. Both options remove the "
+"content padding for you."
+msgstr ""
+"选择页面构建器容器类型。Both options remove the content padding for you。"
+
+#: inc/meta-box.php:175
+msgid "Full Width"
+msgstr "全部宽度"
+
+#: inc/meta-box.php:186 inc/meta-box.php:188
+msgid "Content Title"
+msgstr "内容标题"
+
+#: inc/meta-box.php:192
+msgid "Premium module available"
+msgstr "可用优质（要钱的）模块"
+
+#: inc/structure/comments.php:25
+msgid "Pingback:"
+msgstr ""
+
+#: inc/structure/comments.php:25 inc/structure/comments.php:50
+msgid "Edit"
+msgstr "编辑"
+
+#. translators: 1: date, 2: time
+#: inc/structure/comments.php:44
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s %2$s"
+
+#: inc/structure/comments.php:64
+msgid "Your comment is awaiting moderation."
+msgstr "你的评论正等待审核。"
+
+#. Theme Name of the plugin/theme
+#: inc/structure/footer.php:81
+msgid "GeneratePress"
+msgstr ""
+
+#: inc/structure/footer.php:104
+msgid "Footer Widget"
+msgstr "脚挂件"
+
+#. translators: 1: admin URL
+#: inc/structure/footer.php:110
+#, php-format
+msgid ""
+"Replace this widget content by going to <a href=\"%1$s"
+"\"><strong>Appearance / Widgets</strong></a> and dragging widgets into this "
+"widget area."
+msgstr ""
+
+#. translators: 1: admin URL
+#: inc/structure/footer.php:119
+#, php-format
+msgid ""
+"To remove or choose the number of footer widgets, go to <a href=\"%1$s"
+"\"><strong>Appearance / Customize / Layout / Footer Widgets</strong></a>."
+msgstr ""
+
+#: inc/structure/footer.php:227 inc/structure/footer.php:231
+msgid "Scroll back to top"
+msgstr "滚回顶部"
+
+#: inc/structure/header.php:263 inc/structure/header.php:264
+msgid "Skip to content"
+msgstr "跳转至内容"
+
+#: inc/structure/navigation.php:35
+msgid "Menu"
+msgstr "菜单"
+
+#: inc/structure/navigation.php:83 inc/structure/navigation.php:289
+#: inc/structure/navigation.php:319 inc/structure/navigation.php:322
+#: searchform.php:17
+msgctxt "submit button"
+msgid "Search"
+msgstr "搜索"
+
+#: inc/structure/navigation.php:260
+msgctxt "label"
+msgid "Search"
+msgstr "搜索"
+
+#: inc/structure/post-meta.php:46
+msgid "Post navigation"
+msgstr "文章导航"
+
+#: inc/structure/post-meta.php:50 inc/structure/post-meta.php:56
+msgid "Previous"
+msgstr "上一个"
+
+#: inc/structure/post-meta.php:51 inc/structure/post-meta.php:60
+msgid "Next"
+msgstr "下一个"
+
+#: inc/structure/post-meta.php:56
+msgid "Older posts"
+msgstr "更早的文章"
+
+#: inc/structure/post-meta.php:60
+msgid "Newer posts"
+msgstr "较新的文章"
+
+#: inc/structure/post-meta.php:142
+msgid "by"
+msgstr "作者"
+
+#. translators: 1: Author name
+#: inc/structure/post-meta.php:145
+#, php-format
+msgid "View all posts by %s"
+msgstr "查看作者 %s 的全部文章"
+
+#: inc/structure/post-meta.php:164 inc/structure/post-meta.php:172
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr "， "
+
+#: inc/structure/post-meta.php:167
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "分类"
+
+#: inc/structure/post-meta.php:175
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "标签"
+
+#: inc/structure/post-meta.php:182
+msgid "Leave a comment"
+msgstr "写下评论"
+
+#: inc/structure/post-meta.php:182
+msgid "1 Comment"
+msgstr "1 条评论"
+
+#: inc/structure/post-meta.php:182
+msgid "% Comments"
+msgstr "% 条评论"
+
+#: inc/structure/post-meta.php:202 inc/structure/post-meta.php:222
+msgid "Read more"
+msgstr "阅读更多"
+
+#: inc/typography.php:141
+msgid "Typography"
+msgstr "排版设计"
+
+#: inc/typography.php:228
+msgid "Font size"
+msgstr "字体大小"
+
+#: inc/typography.php:263
+msgid "Line height"
+msgstr "线高度"
+
+#: inc/typography.php:298
+msgid "Paragraph margin"
+msgstr "段落留白"
+
+#: no-results.php:27
+msgid "Nothing Found"
+msgstr "未找到任何内容"
+
+#. translators: 1: Admin URL
+#: no-results.php:49
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "准备发布你的第一篇文章吗？ <a href=\"%1$s\">从这开始</a>。"
+
+#: no-results.php:57
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "抱歉！未找到匹配的结果。请使用其它关键字尝试搜索。"
+
+#: no-results.php:62
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "似乎找不到你要的内容。试试搜索功能吧。"
+
+#. translators: 1: Search query name
+#: search.php:31
+#, php-format
+msgid "Search Results for: %s"
+msgstr "%s 搜索结果"
+
+#: searchform.php:14 searchform.php:15
+msgctxt "label"
+msgid "Search for:"
+msgstr "搜索："
+
+#: searchform.php:15
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "搜索 &hellip;"
+
+#: sidebar-left.php:46 sidebar.php:46
+msgid "Archives"
+msgstr "档案"
+
+#. Theme URI of the plugin/theme
+msgid "https://generatepress.com"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Tom Usborne"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://tomusborne.com"
+msgstr ""

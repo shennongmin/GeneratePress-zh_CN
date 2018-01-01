@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: GeneratePress\n"
 "POT-Creation-Date: 2017-12-31 11:35+0800\n"
-"PO-Revision-Date: 2018-01-01 11:33+0800\n"
+"PO-Revision-Date: 2018-01-01 14:18+0800\n"
 "Last-Translator: shennongmin <hnnyfcwpf@163.com>\n"
 "Language-Team: \n"
 "Language: zh_CN\n"
@@ -705,11 +705,11 @@ msgstr "文章导航"
 
 #: inc/structure/post-meta.php:50 inc/structure/post-meta.php:56
 msgid "Previous"
-msgstr "上一个"
+msgstr "上一篇"
 
 #: inc/structure/post-meta.php:51 inc/structure/post-meta.php:60
 msgid "Next"
-msgstr "下一个"
+msgstr "下一篇"
 
 #: inc/structure/post-meta.php:56
 msgid "Older posts"

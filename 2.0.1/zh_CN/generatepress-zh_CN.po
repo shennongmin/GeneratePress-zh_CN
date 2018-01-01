@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: GeneratePress\n"
 "POT-Creation-Date: 2017-12-31 11:35+0800\n"
-"PO-Revision-Date: 2017-12-31 14:11+0800\n"
-"Last-Translator: \n"
+"PO-Revision-Date: 2018-01-01 11:33+0800\n"
+"Last-Translator: shennongmin <hnnyfcwpf@163.com>\n"
 "Language-Team: \n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -34,14 +34,14 @@ msgstr "这儿，貌似啥也木有。搜搜看？"
 #, php-format
 msgctxt "comments title"
 msgid "One thought on &ldquo;%s&rdquo;"
-msgstr "&ldquo;%s&rdquo; 有一条评论 "
+msgstr "&ldquo;%s&rdquo; 有 1 条评论"
 
 #: comments.php:57
 #, php-format
 msgctxt "comments title"
 msgid "%1$s thought on &ldquo;%2$s&rdquo;"
 msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
-msgstr[0] "&ldquo;%2$s&rdquo; 有 %1$s 条评论 "
+msgstr[0] "&ldquo;%2$s&rdquo; 有 %1$s 条评论"
 
 #: comments.php:80 comments.php:103
 msgid "Comment navigation"
@@ -312,7 +312,7 @@ msgstr "边栏"
 
 #: inc/customizer.php:779 inc/dashboard.php:205
 msgid "Sidebar Layout"
-msgstr "边栏布局"
+msgstr "页面边栏布局"
 
 #: inc/customizer.php:782 inc/customizer.php:812 inc/customizer.php:842
 msgid "Sidebar / Content"
@@ -325,7 +325,7 @@ msgstr "内容/边栏"
 #: inc/customizer.php:784 inc/customizer.php:814 inc/customizer.php:844
 #: inc/meta-box.php:116
 msgid "Content (no sidebars)"
-msgstr "内容（无边栏） "
+msgstr "内容（无边栏）"
 
 #: inc/customizer.php:785 inc/customizer.php:815 inc/customizer.php:845
 msgid "Sidebar / Content / Sidebar"
@@ -393,11 +393,11 @@ msgstr "通用"
 
 #: inc/customizer.php:1078
 msgid "Load essential icons only"
-msgstr "仅加载主要的图标"
+msgstr ""
 
 #: inc/customizer.php:1079
 msgid "Load essential Font Awesome icons instead of the full library."
-msgstr "加载好看的字体图标而不是整个库。"
+msgstr ""
 
 #: inc/customizer.php:1098
 msgid "Cache dynamic CSS"
@@ -455,7 +455,7 @@ msgstr "变体"
 
 #: inc/dashboard.php:53
 msgid "Premium"
-msgstr "优质（要钱的） "
+msgstr "优质（要钱的）"
 
 #: inc/dashboard.php:55
 msgid "Support"
@@ -770,7 +770,7 @@ msgstr "字体大小"
 
 #: inc/typography.php:263
 msgid "Line height"
-msgstr "线高度"
+msgstr "行高度"
 
 #: inc/typography.php:298
 msgid "Paragraph margin"
